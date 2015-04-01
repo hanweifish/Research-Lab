@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+	
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people0.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people1.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+		
+		
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people2.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people3.jpg</location>
+			<info>groupphoto.html</info>
+		</track>		
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people4.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people5.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+		
+		<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people6.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people7.jpg</location>
+			<info>groupphoto.html</info>
+		</track>		
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people8.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+
+	<track>
+			
+			<creator>Wei Han</creator>
+			<location>banner/people9.jpg</location>
+			<info>groupphoto.html</info>
+		</track>
+		
+	
+	
+	</trackList>
+</playlist>
